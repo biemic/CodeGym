@@ -6,6 +6,7 @@ public class Kurs_CodeGym {
                                                          // skrót do static void main(String[] args) - psv
 
         int liczba = 123;
+        String tekst = ("Hejka");
 
         System.out.println("Siemka co tam ??");         // skrót do System.out.println(); - sout
 
