@@ -1,6 +1,6 @@
 package First_code;
 
-public class Typy_liczb_calkowitych {
+public class typy_liczb_calkowitych {
 
 
 
