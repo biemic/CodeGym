@@ -1,7 +1,7 @@
 package First_code;
 
 public class typy_liczb_calkowitych {
-
+    public static void main(String[] args) {
 
 
 /*  byte        1       Byte, ponieważ zajmuje jeden bajt pamięci
@@ -15,7 +15,7 @@ public class typy_liczb_calkowitych {
     double      8           Skrót od Double Float
  */
 
-
+    }
 
 
 }
