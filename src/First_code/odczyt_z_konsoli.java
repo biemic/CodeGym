@@ -29,6 +29,22 @@ public class odczyt_z_konsoli {
         // Najpierw wypisujemy wiek, potem imię, każde w nowej linii
       //  System.out.println(playerAge);
        // System.out.println(playerName);
+        /* Wszystko, co znajduje się po lewej stronie znaku równości, to deklaracja zmiennej typu Scanner o nazwie console.
+                Można ją było nazwać na przykład s albo scanner, a nawet keyboard. Wtedy kod wyglądałby tak:
+
+        Scanner s = new Scanner(System.in);
+        String name = s.nextLine();
+        int age = s.nextInt();
+
+        Scanner scanner = new Scanner(System.in);
+        String name = scanner.nextLine();
+        int age = scanner.nextInt();
+
+        Scanner keyboard = new Scanner(System.in);
+        String name = keyboard.nextLine();
+        int age = keyboard.nextInt();
+
+        */
     }
 }
 
