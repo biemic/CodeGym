@@ -20,7 +20,11 @@ public class Kurs_CodeGym {
         // Wyświetlamy liczbę reprezentującą rok na ekranie
         System.out.println(year);
 
+        Scanner console = new Scanner(System.in);
+        int a = console.nextInt();
+        int b = console.nextInt();
 
+        System.out.println(a + b);
 
     }
 }
